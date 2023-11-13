@@ -31,4 +31,9 @@ This repository contains a collection of Jupyter Notebook files demonstrating va
 9. **SM Case 2 Textile Product Case Problem .ipynb**
    - Gurobi optimization for a textile product case problem in the context of supply chain management.
 
+10. **Simple Integer Program. ipynb**
+   - Gurobi Optimization problem using integer variable
+
+   
+
 Feel free to explore these notebooks for practical examples and hands-on experience with Gurobi optimization.
